@@ -1,6 +1,6 @@
 <p align="center"><a align="center" href="https://www.um.edu.mt/"><img src="UoM.png" alt="Logo" width="100" height="100"></a></p>
 
-<h2 align="center">Land Vehicle Speed Estimation in an Augmented Reality Space using Computer Vision</h2>
+<h2 align="center">Land Vehicle Speed Estimation in an Augmented Reality Space Using Computer Vision</h2>
 <h3 align="center">Samuel Sciberras</h3>
 <h4 align="center">Supervised by Dr Vanessa Camilleri<br>Co-supervised by Mr Dylan Seychell</h3>
 <h5 align="center">Department of Artificial Intelligence<br>Faculty of ICT<br>University of Malta</h5>
